@@ -1,0 +1,130 @@
+.backgnd{
+ background-color: black;
+ background-image: url(../images/banner.jpg);
+ background-size: auto;
+ height: 350px;
+ width: 100%;
+}
+.row{
+	box-sizing: border-box;
+
+}
+.container1{
+	background-color: black;
+	width: 100%;
+	height: 20%;
+}
+
+.tColor{
+	color: white;
+	font-size: 40px;
+	padding: 10px; 
+	margin-left: 120px;
+	margin-bottom: 10px; 
+	font-weight: normal;
+}
+.div1{
+background-color: black;
+}
+
+.icon-1{
+background-color: rgb(165,214,73); 
+float: left;
+}
+.icon-2{
+background-color: rgb(28,163,157); ;
+float: left;
+}
+.icon-3{
+background-color: rgb(129,129,129); ;
+float: left;
+}
+.last{
+background-image: url(../images/ddg-bg.jpg);
+height: 250px;
+width: 100%;
+color: white;
+}
+.text_1{
+	padding: 60px; 
+	margin-left: 30px;
+}
+.font_1{
+	font-size: 40px;
+	margin : 00px;
+}
+.font_2{
+	font-size: 60px;
+	font-style: bold;
+}
+.footer{
+	background-color: black;
+	height: 80px;
+	color: white;
+}
+.copy1{
+	text-align: center;
+	padding: 30px;
+}
+.img1{
+	border-radius: 50%;
+	width:200px;
+}
+
+.heading{
+	text-align: center;
+}
+.SERVICE{
+	font-size: 50px;
+	  font-weight: normal;
+}
+.featured_service{
+background-color: rgb(243,243,243);
+
+}
+.container{
+	padding: 45px;
+}
+
+.msg{
+	margin-top: 10px;
+}
+
+.column1{
+margin-right: 20px;
+}
+
+.column{
+	border-radius:20px;
+	margin-right: 20px;
+}
+
+
+.column img{
+	float: left;
+	margin-top: 20px;
+	margin-bottom: 20px;
+	margin-left: 20px;
+
+}
+
+.msg1{
+	margin-left: 20px;
+	margin-top: 20px;
+	margin-right: 20px;
+	margin-left: 10px;
+	color: white;
+}
+
+button{
+	background-color: rgb(165,214,73); 
+	height:50px;
+	width: 150px; 
+	margin-left:20px ;
+	margin-top: 20px;
+	border: 00px;
+	color: white;
+}
+.get{
+	display: flex;
+}
