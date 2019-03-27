@@ -1,0 +1,53 @@
+.bd{
+	background-color: rgb(242,242,242);
+
+}
+.heading{
+  font-family: Arial, Helvetica, sans-serif;
+  margin: 20px auto;
+  text-align: center;
+  font-size: 40px;
+  font-weight: normal;
+}
+
+img{
+	width: 100%;
+}
+
+.project{
+	
+	}
+
+.row{
+	width: 100%;
+	margin: 10px;
+}
+.column1{
+	float: left;
+	width: 30%;
+	padding-left: 2.5%;
+}
+.column2{
+	float: left;
+	padding-left: 2.5%;
+	padding-top:2.5%;
+	width: 30%;
+}
+.backgrd{
+	text-align: center;
+	line-height: 30%;
+    background-color: rgb(255,255,255);
+    padding: 1.5%;
+    height: 90px;
+}
+.text1{
+  text-align: center;
+  margin-top: 20px;
+  line-height: 50%;
+}
+p{
+  line-height: 30%;
+}
+.color1{
+  color: rgb(151,162,166);
+}
